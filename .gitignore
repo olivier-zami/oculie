@@ -13,4 +13,4 @@
 !/library/Implementation/Behavioral/Parser
 /library/Implementation/Behavioral/Parser/*
 
-!/library/Implementation/Behavioral/Parser/XML.php
+!/library/Implementation/Behavioral/Parser/Xml.php
